@@ -6,9 +6,13 @@ This repository contains everything needed to classify iris flowers into three s
 
 ---
 
-## 🔗 **Live App**   👉 [IRIS Flower Classification - Streamlit App (Placeholder Link)]  
+# 🔗 **Live App**   👉 [IRIS Flower Classification - Streamlit App](https://oibsiptaskno1-hou2rerukfldczwopfwyea.streamlit.app/)
+
+### 📌 How to Use:
+> Enter the Sepal and Petal measurements in the app form and click **"Predict Species"** to get the Iris flower type instantly! 🌸🔮
 
 ---
+
 
 ## 🚀 **Project Overview**  
 The **Iris Flower Dataset** contains three species — *Setosa*, *Versicolor*, and *Virginica* — each identified by distinct measurements.  
@@ -30,9 +34,8 @@ This project creates an ML-based solution to **automate** and **simplify** the c
 - Multi-Class Machine Learning Modeling
 - Model Evaluation & Hyperparameter Tuning
 - Pickle-based Model Saving
-- Streamlit Web App Development
-- Cloud Deployment (Render)
-
+- Streamlit Web App Deployment 
+  
 ---
 
 ## 💻 **Technologies Used**
@@ -43,8 +46,7 @@ This project creates an ML-based solution to **automate** and **simplify** the c
 | Seaborn, Matplotlib | Data Visualization             |
 | Scikit-learn    | Model Building and Evaluation      |
 | Pickle          | Model Serialization                |
-| Streamlit       | Web App Interface                  |
-| Render          | Cloud Deployment                   |
+| Streamlit       | Web App Interface and deployment                 |                 |
 
 ---
 
@@ -53,7 +55,7 @@ This project creates an ML-based solution to **automate** and **simplify** the c
 📥 Dataset → 🧹 Data Preprocessing → 📊 EDA 
 → 🤖 Model Training (KNN, Decision Tree, Random Forest)
 → 🏆 Model Evaluation → 💾 Save Best Model (.pkl) 
-→ 🌐 Deploy Streamlit Web App on Render
+→ 🌐 Deploy Streamlit Web App
 ```
 ---
 
