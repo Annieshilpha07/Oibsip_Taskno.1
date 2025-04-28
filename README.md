@@ -7,6 +7,7 @@ This repository contains everything needed to classify iris flowers into three s
 ---
 
 # 🔗 **Live App**   👉 [IRIS Flower Classification - Streamlit App](https://oibsiptaskno1-hou2rerukfldczwopfwyea.streamlit.app/)
+> Click the Link - To Predict the Iris Species
 
 ### 📌 How to Use:
 > Enter the Sepal and Petal measurements in the app form and click **"Predict Species"** to get the Iris flower type instantly! 🌸🔮
